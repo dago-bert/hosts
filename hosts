@@ -1,0 +1,10 @@
+# Title: dago-bert/hosts
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/dago-bert/hosts/master/hosts
+# Project home page: https://github.com/dago-bert/hosts
+#
+# ===============================================================
+
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 graph.facebook.com
