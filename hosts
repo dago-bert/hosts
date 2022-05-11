@@ -5,6 +5,16 @@
 #
 # ===============================================================
 
+# google
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 safebrowsing.googleapis.com
+
+# facebook
 0.0.0.0 graph.facebook.com
+
+# mozilla
+0.0.0.0 firefox.settings.services.mozilla.com
+0.0.0.0 location.services.mozilla.com
+0.0.0.0 shavar.services.mozilla.com
